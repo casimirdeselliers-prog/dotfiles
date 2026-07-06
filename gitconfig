@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = Type in your first and last name (no accent or special characters - e.g. 'ç'):
-	name = Casimir de Selliers 298327908+casimirdeselliers-prog@users.noreply.github.com
+	email = 298327908+casimirdeselliers-prog@users.noreply.github.com
+	name = Casimir de Selliers
